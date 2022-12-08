@@ -1,0 +1,165 @@
+body.light.dark{
+    background: #333;
+}
+body.light.dark nav{
+    background: #333;
+}
+body.light.dark nav .navbar .links li a{
+    color: #fff;
+}
+body.light.dark nav .navbar .links li .arrow{
+    color: #fff;
+}
+body.light.dark nav .navbar .links li .sub-menu{
+    color: #fff;
+    background: #333;
+    box-shadow: 0 1px 2px rgba(255, 255, 255, 0.2);
+}
+body.light.dark .navbar .search-box i{
+    color: #fff;
+}
+@media (max-width:800px){
+    body.light.dark nav .navbar .nav-links{
+        background-color: #333;
+    }
+    body.light.dark .sidebar-logo .logo-name{
+     color: #fff;
+   }
+   body.light.dark .sidebar-logo  i,
+   body.light.dark .navbar .bx-menu{
+     color: #fff;
+   }
+ }
+ body.light.dark .to-top{
+    background: #000;
+    color: #fff;
+}
+body.light.dark .to-top:hover{
+    color: #000;
+    background-color: rgb(255, 123, 0);
+}
+body.light.dark  section#about{
+    background: #333;
+}
+body.light.dark .right > *{
+    color: #fff;
+}
+body.light.dark .right ul li i{
+    color: #ed7e00;
+}
+body.light.dark section.profits{
+    color: #fff;
+}
+body.light.dark section.profits.one{
+  background-color: #36505f;
+}
+body.light.dark section.profits.four{
+    background-color: #7a4d33;
+}
+body.light.dark hr{
+    background-color: #eee;
+}
+body.light.dark section.about .content p{
+    color: #fff;
+}
+body.light.dark section.about .links li{
+  border: 1px solid #fff;
+}
+body.light.dark section.about .links li a{
+    color: #fff;
+}
+body.light.dark section.about .content h2{
+    color: #fff;
+}
+body.light.dark section.about .content span{
+    color: #fff;
+}
+body.light.dark section.about .icons li i{
+    border: 1px solid #fff;
+    color: #fff;
+}
+body.light.dark section#service .sec-title span{
+    color: #b66834;
+}
+body.light.dark section#service .sec-title h3
+{
+    color: #ccc;
+}
+body.light.dark section#service .service-box
+{
+    background: #333;
+}
+body.light.dark section#service .service-box::before
+{
+    background: #b66834;
+}
+body.light.dark section#service .service-box h3
+{
+    color: #FA0;
+}
+body.light.dark section#service .service-box i
+{
+    color: #FA0;
+}
+body.light.dark section#service .service-box:hover i,
+body.light.dark section#service .service-box:hover h3
+{
+    color: #FFF;
+}
+body.light.dark .team h1{
+    color: #eee;
+}
+body.light.dark .team .containers .card{
+    background-color: #222;
+}
+body.light.dark .team .containers .card .info h3{
+    color: #eee;
+}
+body.light.dark .team .containers .card .pic img{
+    border: 10px solid #eee;
+}
+body.light.dark .team .containers .card .info p{
+    color: #eee;
+}
+/* Portfolio */
+body.light.dark .preview-box{
+    background-color: #444;
+}
+body.light.dark .preview-box .details{
+    color: #fff;
+}
+
+/* Footer */
+body.light.dark #footer {
+    background: #444;
+    color: #fff;
+}
+body.light.dark #footer .footer-top {
+  background: #222;
+}
+body.light.dark #footer h6{
+    color: #777;
+}
+body.light.dark #footer .footer-top .footer-links ul a{
+    color: #ccc;
+}
+body.light.dark #footer .footer-top .footer-links ul a:hover{
+    color: #ed5700;
+}
+
+body.light.dark .contact-info.h-100{
+    background-image: url(../contact/images/dark.jpeg);
+}
+
+
+/* About us */
+
+
+body.light.dark #why-us .container3 .box h2,
+body.light.dark #why-us .container3 .box h3,
+body.light.dark #why-us .container3 .box p{
+    color: #fff;
+}
+body.light.dark #why-us h1{
+    color: #fff;
+}

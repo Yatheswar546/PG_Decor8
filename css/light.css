@@ -1,0 +1,145 @@
+body.light{
+    background-color: #eee;
+}
+
+/* Nav Bar */
+body.light nav{
+    background: #fff;
+}
+body.light nav .navbar .links li a{
+    color: #000;
+}
+body.light nav .navbar .links li .arrow{
+    color: #000;
+}
+body.light nav .navbar .links li .sub-menu{
+    color: #000;
+    background: #fff;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+}
+body.light .navbar .search-box i{
+    color: #000;
+}
+
+@media (max-width:800px){
+   body.light nav .navbar .nav-links{
+       background-color: #fff;
+   }
+   body.light .sidebar-logo .logo-name{
+    color: #000;
+  }
+  body.light .sidebar-logo  i,
+  body.light .navbar .bx-menu{
+    color: #000;
+  }
+}
+
+/* To Top */
+body.light .to-top{
+    background: #fff;
+    box-shadow: 0 2px 5px #000;
+    color: #000;
+}
+body.light .to-top:hover{
+    color: #fff;
+    background-color: rgb(255, 123, 0);
+}
+
+/* About Section */
+body.light  section#about{
+    background: #fff;
+}
+body.light .right ul li i{
+    color: #ed7e00;
+}
+
+
+/* Profits */
+body.light section.profits{
+    color: #333;
+}
+body.light section.profits.one{
+  background-color: #0096ed;
+}
+body.light section.profits.four{
+    background-color: #ed5700;
+}
+body.light section.profits.one{
+    color: #fff;
+}
+body.light section.profits.four{
+    color: #fff;
+}
+body.light hr{
+  background-color: #777;
+}
+
+/* Portfolio */
+body.light .preview-box{
+    background-color: #fff;
+}
+body.light .preview-box .details{
+    color: #333;
+}
+
+/* FOOTER CONTACT */
+body.light #fot-con{
+    padding: 30px;
+    background: #ec6313;
+}
+body.light #fot-con .info .item{
+    background-color: #fff;
+    border-top: 10px solid #333;
+}
+body.light #fot-con .info .item i{
+  border: 2px solid #ec6313;
+  color: #fff;
+  background-color: #ec6313;
+}
+body.light #fot-con .info .item h3{
+  color: #333;
+}
+body.light #fot-con .info .item p{
+    color: #333;
+}
+body.light #fot-con .info .item:hover i{
+    background-color: #333;
+    border-color: #333;
+}
+body.light #fot-con .info .item:hover h3,
+body.light #fot-con .info .item:hover p{
+    color: #ec6313
+}
+
+/* Footer */
+body.light #footer {
+    background: #ccc;
+    color: #333;
+}
+body.light #footer .footer-top {
+  background: #fff;
+}
+body.light #footer h6{
+    color: #aaa;
+}
+body.light #footer .footer-top .footer-links ul a{
+    color: #333;
+}
+body.light #footer .footer-top .footer-links ul a:hover{
+    color: #ed5700;
+}
+body.light .contact-info.h-100{
+    background-image: url(../contact/images/light.jpeg);
+}
+
+/* About us */
+
+
+body #why-us .container3 .box::before{
+    background-color: #ec6313;
+}
+body.light #why-us .container3 .box:hover h2,
+body.light #why-us .container3 .box:hover h3,
+body.light #why-us .container3 .box:hover p{
+    color: #fff;
+}
